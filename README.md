@@ -1,4 +1,4 @@
-# lavish Sharma — Portfolio
+# Lavish Kumar — Portfolio
 
 Personal AI & Software Engineering portfolio website showcasing my featured projects, machine learning engineering pipelines, technical stack, and interactive AI assistant.
 
